@@ -1,0 +1,91 @@
+Source,Source Field,Standard Field,Sample Data
+BE.csv,Vendor ID,vendor_id,FR09908311103
+BE.csv,Vendor name,vendor_name,Enterprises Wellness Logistics
+BE.csv,Owner,owner,Aiden Ford
+BE.csv,Address,address,Dorp Straat 47
+BE.csv,ZIP/postcode,postal_code,6312
+BE.csv,Group,group,Suppliers
+BE.csv,City,city,STEINHAUSEN
+BE.csv,Number,belgian_number,3215634729
+BE.csv,Country,country,Belgium
+BE.csv,Email,email,
+BE.csv,Bank country,bank_country,
+BE.csv,Currency,currency,EUR
+BE.csv,VAT Code,vat_number,BE-987.587.369
+BE.csv,IBAN,iban,BE7960926199
+BE.csv,BIC,bic,
+BE.csv,Bank Account Number,bank_account_number,
+BE.csv,Bank Code,bank_code,
+BE.csv,Company entities,company_entities,BE
+ES.csv,Vendor ID Number,vendor_id,E81458556
+ES.csv,Vendor Name,vendor_name,REG. MERCANTILES DE BARCELONA
+ES.csv,Address,address,"Avenida de la Libertad, 44"
+ES.csv,ZIP,postal_code,28046
+ES.csv,City,city,Valencia
+ES.csv,Country,country,Spain
+ES.csv,Email for Contact,email,
+ES.csv,Bank Country,bank_country,
+ES.csv,Currency code,currency,
+ES.csv,VAT-No,vat_number,R72384592
+ES.csv,IBAN,iban,AT732011140338268501
+ES.csv,BIC,bic,
+ES.csv,Bank Account Number,bank_account_number,
+ES.csv,Bank Code,bank_code,
+ES.csv,Bank name,bank_name,Apex Community Bank
+ES.csv,Company Entities,company_entities,ES
+ES.csv,Groups,group,Suppliers
+CZ.csv,Vendor identifier,vendor_id,CZ31575487
+CZ.csv,Description,description,Alconost Inc. - Localisation and translation services for digital platforms.
+CZ.csv,Vendor name,vendor_name,Alconost Inc.
+CZ.csv,Comapny Address,address,"700 N. Fairfax, Suite 614"
+CZ.csv,Postcode,postal_code,VA 22314
+CZ.csv,City,city,Alexandria
+CZ.csv,Country,country,UnitedStates
+CZ.csv,Email,email,
+CZ.csv,Bank name,bank_name,Apex Community Bank
+CZ.csv,Bank country,bank_country,UnitedStates
+CZ.csv,Currency,currency,USD
+CZ.csv,VAT Code,vat_number,Alconost Inc.
+CZ.csv,IBAN,iban,
+CZ.csv,BIC,bic,CHASUS33
+CZ.csv,Bank Account Number,bank_account_number,767660795
+CZ.csv,Bank Code,bank_code,21000021
+CZ.csv,Company entities,company_entities,CZK
+CZ.csv,Vendor Group,group,Suppliers
+CH.csv,Vendor Number,vendor_id,CHE-222.261.314
+CH.csv,Name,vendor_name,Aurelius
+CH.csv,Address,address,Industriestrasse 10
+CH.csv,ZIP/postcode,postal_code,6312
+CH.csv,City,city,STEINHAUSEN
+CH.csv,Country,country,Switzerland
+CH.csv,Email,email,
+CH.csv,Bank country,bank_country,
+CH.csv,Bank Name,bank_name,Apex Community Bank
+CH.csv,Currency,currency,EUR
+CH.csv,Payment terms,payment_terms,Net 15
+CH.csv,VAT Code,vat_number,CHE-223.261.315
+CH.csv,IBAN,iban,CH3500500124803795117
+CH.csv,BIC,bic,
+CH.csv,Bank Account Number,bank_account_number,
+CH.csv,Bank Code,bank_code,
+CH.csv,Company entities,company_entities,CH
+CH.csv,Vendor Group,group,Suppliers
+NO.csv,Vendor identifier,vendor_id,627481305
+NO.csv,Country,country,Denmark
+NO.csv,Name,vendor_name,PlxZyqA15 A/S
+NO.csv,Address,address,Nellemoseveien 15
+NO.csv,ZIP/postcode,postal_code,5683
+NO.csv,City,city,Oslo
+NO.csv,Email,email,
+NO.csv,Bank country,bank_country,Denmark
+NO.csv,Currency,currency,DKK
+NO.csv,VAT Code,vat_number,NO238479520
+NO.csv,Bank Name,bank_name,First National Bank
+NO.csv,IBAN,iban,NO7645392186463
+NO.csv,Payment terms,payment_terms,Within 7 Days
+NO.csv,BIC,bic,SYBSEK45
+NO.csv,Bank Account Number,bank_account_number,16047935423
+NO.csv,Norwegian Bankgiro Number,norwegian_bankgiro_number,7281493
+NO.csv,Bank Code,bank_code,
+NO.csv,Company entities,company_entities,NO
+NO.csv,Vendor Group,group,Suppliers
